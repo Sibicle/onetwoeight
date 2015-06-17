@@ -1,0 +1,30 @@
+{
+  "name": "onetwoeight",
+  "version": "0.0.1",
+  "description": "BPM counter with rolling average",
+  "main": "onetwoeight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sibicle/onetwoeight.git"
+  },
+  "keywords": [
+    "bpm",
+    "beat",
+    "counter",
+    "rolling",
+    "average"
+  ],
+  "author": "Jason Nedell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sibicle/onetwoeight/issues"
+  },
+  "homepage": "https://github.com/Sibicle/onetwoeight",
+  "dependencies": {
+    "fast-stats": "0.0.2",
+    "keypress": "^0.2.1"
+  }
+}
